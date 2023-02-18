@@ -19,6 +19,6 @@ setreadonly(gm, true)
 print("Duplicated!")
 
 -- Known remotes --
---Fishing sim {MonsterHit}
+-- Fishing sim {MonsterHit}
 -- All of us are dead {WeaponHit}
 -- WestBound {Hit, Inventory, SkinAnimal}
