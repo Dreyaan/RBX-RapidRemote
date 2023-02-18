@@ -1,4 +1,4 @@
-Spam calling specific remote with this script.
+Spam calling specific remote.
 
 !! WARNING !!
 For educational purposes only!
