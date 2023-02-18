@@ -17,8 +17,3 @@ gm.__namecall = newcclosure(function(self, ...)
 end)
 setreadonly(gm, true)
 print("Duplicated!")
-
--- Known remotes --
--- Fishing sim {MonsterHit}
--- All of us are dead {WeaponHit}
--- WestBound {Hit, Inventory, SkinAnimal}
