@@ -1,4 +1,4 @@
-local settings = {repeatamount = 14} --Amount of repeat
+local settings = {repeatamount = 16} --Amount of repeat
 
 local gm = getrawmetatable(game)
 setreadonly(gm, false)
